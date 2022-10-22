@@ -54,8 +54,4 @@
         }
         return turnAroundTimes;
     }
-
-
-
-
 // Language: javascript
